@@ -84,7 +84,3 @@ This project is associated with the Organize app available on the Google Play St
 ## 🔗 Links
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.zzz1zzz.organize.android)
-
----
-
-**Stay organized. Stay productive. Stay focused.**
